@@ -16,6 +16,6 @@ Below are snapshots of the finished webpage taking into account the clint's crit
 
 ### Github repository
 
-<b>Github username:</b>ayaneey/marketing-agency 
+<b>Github username:</b> ayaneey/marketing-agency 
 <br>
-Github URL: https://github.com/ayaneey/marketing-agency
+<b>Github URL:</b> https://github.com/ayaneey/marketing-agency

@@ -1,6 +1,8 @@
 # Marketing agency
 
-A marketing agency website on the efficiency of social media and how to utilize it to create a successful, online presence for any business.
+For this project, a marketing agency website asked to develop on its webpage, in particular on accessibility, to deliver efficient tools and advice in implementing the use of social media and how to embed social media platforms to create a successful, online presence for a business.
+
+Below are snapshots of the finished webpage taking into account the clint's criteria:
 
 ## Technologies
 

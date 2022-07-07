@@ -7,7 +7,8 @@ Below are snapshots of the finished webpage taking into account the client's cri
 <br>
 <br>
 <br>
-<img width="1000" alt="Page 2" src="https://user-images.githubusercontent.com/108099259/177623836-ec69c75d-13ec-4e46-bced-7a81e9bd9082.png">
+<img width="1000" alt="Screenshot 2022-07-07 at 17 56 54" src="https://user-images.githubusercontent.com/108099259/177829010-b75ec1c4-4da3-4b7c-b69c-54cab07a25ad.png"> 
+
 
 ## Technologies
 

@@ -26,13 +26,14 @@ SO THAT our own site is optimized for search engines
 ## Deployed App
 
 Below are snapshots of the finished webpage taking into account the client's criteria:
+<br>
 <img width="1000" alt="Page 1" src="https://user-images.githubusercontent.com/108099259/177623789-7bb46014-a9b7-4f1c-a528-024743ca268e.png">
 <br>
 <br>
 <br>
 <img width="1000" alt="Page 2" src="https://user-images.githubusercontent.com/108099259/177623836-ec69c75d-13ec-4e46-bced-7a81e9bd9082.png">
 
-![Click Here For Deployed App](https://ayaneey.github.io/marketing-agency/)
+[Click Here For Deployed App](https://ayaneey.github.io/marketing-agency/)
 
 ## GitHub
 
